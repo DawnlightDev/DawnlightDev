@@ -12,12 +12,7 @@
 <br/>
 ✨ 2021 Goals: Finish backend server-side work for The Bayoe~n Blog ✨
 
-<!--### Connect with me:
-
-[<img align="left" alt="The Bayoe~n Dev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="The Bayoe~n Blog | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
-
-<br />
+<br/>
 
 ### Tools and Languages I Use:
 
