@@ -2,15 +2,15 @@
 
 ## About Me
 
-🏫 I'm a full-time Computer Science student at a 4 year univeristy
+-🏫 I'm a full-time Computer Science student at a 4 year univeristy
 <br/>
-🌱 I'm currently learning HTML5/CSS3 and JavaScript
+-🌱 I'm currently learning HTML5/CSS3 and JavaScript
 <br/>
-🖥️ I'm currently working on my website project, The Bayoe~n Blog
+-🖥️ I'm currently working on my website project, The Bayoen Blog
 <br/>
-⌨️ I started off my programming journey as a self-taught programmer in 2017
+-⌨️ I started off my programming journey as a self-taught programmer in 2017
 <br/>
-✨ 2021 Goals: Finish backend server-side work for The Bayoe~n Blog ✨
+-✨ 2021 Goals: Finish backend server-side work for The Bayoen Blog ✨
 
 <br/>
 
