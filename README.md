@@ -14,6 +14,7 @@
     &emsp; - Finish most of the backend server-side work for The Bayoen Blog <br/>
     &emsp; - Deploy functional public test beta version of The Bayoen Blog <br/>
     &emsp; - Finish Discord.py and Discord.js bots and host via online server <br/>
+    &emsp; - Finish getting certifications in Reponsive Web Design <br/>
 
 <br/>
 
