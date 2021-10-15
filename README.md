@@ -10,11 +10,12 @@
 <br/>
 ⌨️ I started off my programming journey as a self-taught programmer in 2017
 <br/>
+🏆 I'm certified in Responsive Web Design <br/>
 ✨ 2021 Goals: ✨<br/>
     &emsp; - Finish most of the backend server-side work for The Bayoen Blog <br/>
     &emsp; - Deploy functional public test beta version of The Bayoen Blog <br/>
     &emsp; - Finish Discord.py and Discord.js bots and host via online server <br/>
-    &emsp; - Finish getting certifications in Responsive Web Design <br/>
+    &emsp; - Finish getting certifications in Responsive Web Design ✔️ <br/>
 
 <br/>
 
