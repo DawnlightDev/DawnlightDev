@@ -12,7 +12,7 @@
 <br/>
 🏆 I'm certified in Responsive Web Design <br/>
 ✨ 2022 Goals: ✨<br/>
-    &emsp; - Register domain name for The Bayoen Blog and launch project publicly <br/>
+    &emsp; - Register domain name for The Bayoen Blog and launch project publicly ✔️<br/>
     &emsp; - Make major upgrades to Discord bots <br/>
     &emsp; - Get certified in JavaScript Data Structures and Algorithms via FreeCodeCamp <br/>
 
