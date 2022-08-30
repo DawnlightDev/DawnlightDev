@@ -25,6 +25,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebme.ie%2Fwp-content%2Fuploads%2F2019%2F07%2FVisual_Studio_Code_1.35_icon.svg_-e1563308603182.png&f=1&nofb=1" />
 <img align="left" alt="Notepad++" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2.bp.blogspot.com%2F-YxV67LGDGSs%2FWksbaiKaQSI%2FAAAAAAAAAh8%2FwreqaG4HbBw3h6g-AThMSLRk81hQ85dYgCK4BGAYYCw%2Fs1600%2FNotepad-Plus-Plus-icon.png&f=1&nofb=1" />
 <img align = "left" alt = "IntelliJ IDEA" width = "26px" src = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogonoid.com%2Fimages%2Fintellij-idea-logo.png&f=1&nofb=1" />
+<img align = "left" alt = "Weka" width = "26px" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.techspot.com%2Fimages2%2Fdownloads%2Ftopdownload%2F2021%2F01%2F2021-01-07-ts3_thumbs-ee2.png&f=1&nofb=1" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -39,6 +40,9 @@
 <img align = "left" alt = "YouTube" width = "26px" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Fcapsocial-round%2F500%2Fyoutube-1024.png&f=1&nofb=1" /> [DawnlightDGArle](https://www.youtube.com/channel/UCjC4tugkGcppSw71Jn2RWmA) <br/>
 <br/>
 <img align = "left" alt = "Twitter" width = "26px" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkey.com%2Fpng%2Ffull%2F2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png&f=1&nofb=1" /> [@DawnlightDGArle](https://twitter.com/DawnlightDGArle)
+<br/>
+<br/>
+<img align = "left" alt = "Email Address" width = "26px" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebiconspng.com%2Fwp-content%2Fuploads%2F2017%2F09%2FEmail-PNG-Image-44351.png&f=1&nofb=1" /> dawnlightdeveloper@gmail.com
 
 
 <!---
