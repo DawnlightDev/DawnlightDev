@@ -2,7 +2,7 @@
 
 ### About Me
 
-🏫 I'm a full-time Computer Science and Mathematics student at a 4 year univeristy
+🏫 I'm a full-time Computer Science and Mathematics student at a 4 year university
 <br/>
 🌱 I'm currently learning advanced topics in Java
 <br/>
@@ -32,9 +32,9 @@
 <br/>
 
 ### Connect With Me!
-<img align = "left" alt = "YouTube" width = "26px" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Fcapsocial-round%2F500%2Fyoutube-1024.png&f=1&nofb=1" /> [DawnlightDGArle](https://www.youtube.com/channel/UCjC4tugkGcppSw71Jn2RWmA) <br/>
+<img align = "left" alt = "YouTube" width = "26px" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Fcapsocial-round%2F500%2Fyoutube-1024.png&f=1&nofb=1" /> [Dawnlight Dev](https://www.youtube.com/channel/UCjC4tugkGcppSw71Jn2RWmA) <br/>
 <br/>
-<img align = "left" alt = "Twitter" width = "26px" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkey.com%2Fpng%2Ffull%2F2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png&f=1&nofb=1" /> [@DawnlightDGArle](https://twitter.com/DawnlightDGArle)
+<img align = "left" alt = "Twitter" width = "26px" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkey.com%2Fpng%2Ffull%2F2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png&f=1&nofb=1" /> [@DawnlightDev](https://twitter.com/DawnlightDev)
 <br/>
 <br/>
 <img align = "left" alt = "Email Address" width = "26px" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebiconspng.com%2Fwp-content%2Fuploads%2F2017%2F09%2FEmail-PNG-Image-44351.png&f=1&nofb=1" /> dawnlightdeveloper@gmail.com
