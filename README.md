@@ -1,3 +1,5 @@
+<img src = "https://static.wikia.nocookie.net/animal-jam-clans-1/images/1/1c/Made_by_1041uuu.gif/revision/latest?cb=20210406230318" width = 6000 height = 500>
+
 ## ✨ Hello, I'm @DawnlightDGArle, a Russian-American programmer and computer enthusiast! ✨
 
 ### About Me
@@ -40,6 +42,13 @@
 <br/>
 <br/>
 <img align = "left" alt = "Email Address" width = "26px" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebiconspng.com%2Fwp-content%2Fuploads%2F2017%2F09%2FEmail-PNG-Image-44351.png&f=1&nofb=1" /> dawnlightdeveloper@gmail.com
+
+### GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dawnlightdgarle&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dawnlightdgarle&show_icons=true&locale=en&theme=tokyonight" alt="Dawnlight Dev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dawnlightdgarle&&theme=tokyonight" alt="Dawnlight Dev" /></p>
 
 
 <!---
