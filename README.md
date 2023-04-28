@@ -1,10 +1,12 @@
 <img src = "https://static.wikia.nocookie.net/animal-jam-clans-1/images/1/1c/Made_by_1041uuu.gif/revision/latest?cb=20210406230318" width = 6000 height = 300>
 
-## ✨ Hello, I'm @DawnlightDGArle, a Russian-American programmer and computer enthusiast! ✨
+## ✨ Hello, I'm Dawnlight, a Russian-American programmer and computer enthusiast! ✨
 
 ### About Me
 
 🏫 I'm a full-time Computer Science and Mathematics student at a 4 year university
+<br/>
+👩‍💻 I'm a part-time MySQL Database Developer
 <br/>
 🌱 I'm currently learning advanced topics in Java
 <br/>
