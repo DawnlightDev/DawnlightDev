@@ -6,7 +6,7 @@
 
 🏫 I'm a full-time Computer Science and Mathematics student at a 4 year university
 <br/>
-👩‍💻 I'm a part-time MySQL Database Developer
+👩‍💻 I work as a part-time MySQL Database Developer
 <br/>
 🌱 I'm currently learning advanced topics in Java
 <br/>
