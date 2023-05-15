@@ -26,6 +26,7 @@
 <img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Notepad++" width="50px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2.bp.blogspot.com%2F-YxV67LGDGSs%2FWksbaiKaQSI%2FAAAAAAAAAh8%2FwreqaG4HbBw3h6g-AThMSLRk81hQ85dYgCK4BGAYYCw%2Fs1600%2FNotepad-Plus-Plus-icon.png&f=1&nofb=1" />
 <img align = "left" alt = "IntelliJ IDEA" width = "50px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<img aling = "left" alt = "Godot Engine" width = "50px" src = "https://user-images.githubusercontent.com/36481442/100390451-75a9c580-3041-11eb-8313-2f23c1ee2903.png"/>
 <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -33,6 +34,7 @@
 <img align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="left" alt = "MySQL" width = "50px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+<img align = "left" alt = "C#" width = "50px" src = "https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />
 
 <br/>  
 <br/>
