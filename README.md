@@ -14,10 +14,10 @@
 <br/>
 ⌨️ I started off my programming journey as a self-taught programmer in 2017
 <br/>
-🏆 I'm certified in Responsive Web Design <br/>
+🏆 I'm certified in Responsive Web Design and Foundational C# <br/>
 🎮 I'm an aspiring indie game developer <br/>
 ✨ 2023 Goals: ✨<br/>
-    &emsp; - Work on developing my Java indie game, Mahou Shoujo Monogatari
+    &emsp; - Work on developing my indie game, Mahou Shoujo Monogatari
 
 <br/>
 
