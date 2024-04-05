@@ -8,7 +8,7 @@
 <br/>
 👩‍💻 I work as a part-time MySQL Database Developer
 <br/>
-🌱 I'm currently learning advanced topics in Java
+🌱 I'm currently learning C# and Godot 4
 <br/>
 🖥️ I'm currently working on my personal website
 <br/>
@@ -16,8 +16,8 @@
 <br/>
 🏆 I'm certified in Responsive Web Design and Foundational C# <br/>
 🎮 I'm an aspiring indie game developer <br/>
-✨ 2023 Goals: ✨<br/>
-    &emsp; - Work on developing my indie game, Mahou Shoujo Monogatari
+✨ 2024 Goals: ✨<br/>
+    &emsp; - Continue work on developing my indie game, Mahou Shoujo Monogatari (working title)
 
 <br/>
 
@@ -40,12 +40,12 @@
 <br/>
 
 ### Connect With Me!
-<img align = "left" alt = "YouTube" width = "26px" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Fcapsocial-round%2F500%2Fyoutube-1024.png&f=1&nofb=1" /> [Dawnlight Dev](https://www.youtube.com/channel/UCjC4tugkGcppSw71Jn2RWmA) <br/>
+<img align = "left" alt = "YouTube" width = "26px" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Fcapsocial-round%2F500%2Fyoutube-1024.png&f=1&nofb=1" /> [Destiny Hanscom](https://www.youtube.com/@destinyhanscom) <br/>
 <br/>
 <img align = "left" alt = "Twitter" width = "26px" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkey.com%2Fpng%2Ffull%2F2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png&f=1&nofb=1" /> [@DawnlightDev](https://twitter.com/DawnlightDev)
 <br/>
 <br/>
-<img align = "left" alt = "Email Address" width = "26px" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebiconspng.com%2Fwp-content%2Fuploads%2F2017%2F09%2FEmail-PNG-Image-44351.png&f=1&nofb=1" /> dawnlightdeveloper@gmail.com
+<img align = "left" alt = "Email Address" width = "26px" src = "https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" /> dawnlightdeveloper@gmail.com
 
 ### GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dawnlightdev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
