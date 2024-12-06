@@ -4,9 +4,9 @@
 
 ### About Me
 
-🏫 I'm a full-time Computer Science and Mathematics student at a 4 year university
+🏫 I'm a full-time Computer Science graduate student at a graduate university
 <br/>
-👩‍💻 I work as a part-time MySQL Database Developer
+👩‍💻 I work as a full-time software engineer
 <br/>
 🌱 I'm currently learning C# and Godot 4
 <br/>
@@ -17,7 +17,7 @@
 🏆 I'm certified in Responsive Web Design and Foundational C# <br/>
 🎮 I'm an aspiring indie game developer <br/>
 ✨ 2024 Goals: ✨<br/>
-    &emsp; - Continue work on developing my indie game, Mahou Shoujo Monogatari (working title)
+    &emsp; - Continue work on developing my indie game, Magical Girl Saga (working title)
 
 <br/>
 
