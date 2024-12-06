@@ -42,7 +42,7 @@
 ### Connect With Me!
 <img align = "left" alt = "YouTube" width = "26px" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Fcapsocial-round%2F500%2Fyoutube-1024.png&f=1&nofb=1" /> [Destiny Hanscom](https://www.youtube.com/@destinyhanscom) <br/>
 <br/>
-<img align = "left" alt = "Twitter" width = "26px" src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngkey.com%2Fpng%2Ffull%2F2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png&f=1&nofb=1" /> [@DawnlightDev](https://twitter.com/DawnlightDev)
+<img align = "left" alt = "Bluesky" width = "26px" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-AWDi3ztKcBJpDaOu3fkQh33y-pHi3fyljg&s" /> [@Dawnlight.Dev](https://bsky.app/profile/dawnlight.dev)
 <br/>
 <br/>
 <img align = "left" alt = "Email Address" width = "26px" src = "https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" /> dawnlightdeveloper@gmail.com
